@@ -1,0 +1,30 @@
+{
+  "name": "NodeMySQLTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler-request": "^1.2.2",
+    "express": "^4.17.0",
+    "fresh-tabula-js": "^1.2.4",
+    "htmlparser2": "^3.10.1",
+    "mocha": "^6.1.4",
+    "mysql": "^2.17.1",
+    "pdf-to-text": "0.0.7",
+    "pdf2json": "^1.1.8",
+    "pdfreader": "^1.0.4",
+    "should": "^13.2.3",
+    "tabula-js": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
