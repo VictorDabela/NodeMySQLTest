@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "crawler-request": "^1.2.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fresh-tabula-js": "^1.2.12",
     "htmlparser2": "^3.10.1",
     "mocha": "^6.2.0",
