@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "fresh-tabula-js": "^1.2.12",
     "htmlparser2": "^3.10.1",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "mysql": "^2.17.1",
     "pdf-to-text": "0.0.7",
     "pdf2json": "^1.1.8",
